@@ -68,9 +68,8 @@ src/
 
 ## ⚙️ Installation & Setup
 
-```bash
-# Clone repo
-git clone https://github.com/your-username/finance-dashboard.git
+## 🚀 Live Demo
+🔗 https://personal-finance-dashboardd.netlify.app/
 
 # Go to folder
 cd finance-dashboard
